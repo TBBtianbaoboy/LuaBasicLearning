@@ -1,0 +1,2 @@
+-- 只需要运行下面这条shell命令
+-- lua -i -e "_PROMPT=' lua> '"
